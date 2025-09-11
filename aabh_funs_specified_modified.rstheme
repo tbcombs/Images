@@ -174,7 +174,7 @@
 
 .ace_comment {
   font-style: italic;
-  background-color: rgba(170, 171, 173, 0.12);
+  background-color: rgba(243, 155, 225, 0.12);
   
 }
 
